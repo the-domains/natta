@@ -1,7 +1,7 @@
-name: natta
+name: natta summerky
 favicon: null
-layout_spectrum: 0.9647907793987542
-typography_spectrum: 0.6953461808152497
+layout_spectrum: 0.76012
+typography_spectrum: 0.32852
 title: "natta's world"
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.125
   lightness: 0.625
   saturation: 0.25
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose: []
