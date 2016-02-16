@@ -2,6 +2,7 @@ name: natta
 favicon: null
 layout_spectrum: 0.9647907793987542
 typography_spectrum: 0.6953461808152497
+title: "natta's world"
 cta:
   domain: null
   bucket: null
